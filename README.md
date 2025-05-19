@@ -12,12 +12,6 @@
 
 📸 Capturas de Pantalla
 
-🧪 Creador de Monstruos
-  ![image](https://github.com/user-attachments/assets/f5faf92f-5238-4024-93b0-ee92b1eb7345)
-  
-❓ Click Misterioso
-  ![image](https://github.com/user-attachments/assets/b6f3eaff-cd59-4457-9cae-8085465f7a7b)
-
 🎤 Mini Karaoke
 ![image](https://github.com/user-attachments/assets/3113b43d-2d4b-4cf1-83a3-a574bd881d63)
 
