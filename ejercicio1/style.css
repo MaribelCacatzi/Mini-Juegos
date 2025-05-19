@@ -1,0 +1,33 @@
+.cuadrado{
+    width: 150px;
+    height: 150px;
+    background-color: rgb(72, 61, 139);
+    border-color: 1px solid white;
+}
+
+.redondo{
+    width: 170px;
+    height: 170px;
+    background-color: rgb(25, 25, 112);
+    border-radius: 100%;
+}
+
+.Mounstro3{
+    width: 0px;
+    height: 0px;
+    border-top: 80px solid transparent;
+    border-left: 50px solid transparent;
+    border-bottom:100px solid rgb(47, 79, 79);
+}
+
+.fondo1{
+    background-color:slategrey;
+}
+
+.fondo2{
+    background-color:black;
+}
+
+.fondo3{
+    background-color: rgb(117, 117, 184);
+}   

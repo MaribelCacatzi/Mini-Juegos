@@ -1,0 +1,99 @@
+.color1{
+    background-color: yellow;
+}
+
+.color2{
+    background-color: greenyellow;
+}
+
+.color3{
+    background-color: #4B0082;
+}
+
+.color4{
+    background-color: #CD5C5C;
+}
+
+.color5{
+    background-color: #FFFACD;
+}
+
+.color6{
+    background-color: #20B2AA;
+}
+
+.color7{
+    background-color: #0000CD;
+}
+
+.color8{
+    background: linear-gradient(#2E8B57,#FFF5EE,#2E8B57);
+}   
+
+.color9{
+    background-color: #008080;
+}
+
+.color10{
+    background-color: MediumPurple;
+}
+
+.color11{
+    background-color: MediumVioletRed;
+}
+
+.color12{
+    background-color: orange;
+}
+
+.color13{
+    background-color: rebeccapurple;
+}
+
+.color14{
+    background-color:red;
+}
+
+.color15{
+    background: linear-gradient(RebeccaPurple,Plum,RebeccaPurple);
+}
+
+.color16{
+    background: linear-gradient(yellow, orange, white);
+}
+
+.color17{
+    background-color:SaddleBrown;
+}
+
+.color18{
+    background-color: gray;
+}
+
+.color19{
+    background-color: turquoise;
+}
+
+.color20{
+    background-color: antiquewhite;
+}
+
+.color21{
+    background-color: maroon;
+}
+
+.color22{
+    background-color: lightblue;
+}
+
+.color23{
+    background-color: green;
+}
+
+.color24{
+    background-color: #f7dc6f;
+}
+
+.color25{
+    background-color: #34495e ;
+}

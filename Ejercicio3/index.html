@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Simulador de Karaoke</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.6/dist/css/bootstrap.min.css" rel="stylesheet"
+        integrity="sha384-4Q6Gf2aSP4eDXB8Miphtr37CMZZQ5oXLH2yaXMJ2w8e2ZtHTl7GptT4jmndRuHDT" crossorigin="anonymous">
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.13.1/font/bootstrap-icons.min.css">
+</head>
+
+<body style=" background: linear-gradient(black, gray, black);">
+    <div class="container-fluid vh-100 align-content-center" style="width: 500px;">
+        <div class="card text-center h-75" style="background: linear-gradient(#233A4E,#9C6DB0); border-radius: 10%; border: 1px solid black; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 gray;">
+            <p class="text-white mt-3 fs-4" id="titulo"></p>
+            <div class="card-body align-content-center">
+                <p class="card-text text-muted" id="letraAnt"></p>
+                <p class="card-text text-center align-items-center text-white" id="MostrarLetra"></p>
+            </div>
+            <div class="card-footer text-body-secondary h-25 align-content-center" id="botones">
+                <div class="d-flex justify-content-center mb-2 text-white">
+                    <i class="bi bi-soundwave fs-4"></i><i class="bi bi-soundwave fs-4"></i><i
+                    class="bi bi-soundwave fs-4"></i><i class="bi bi-play-fill fs-4"></i><i
+                    class="bi bi-soundwave fs-4"></i><i class="bi bi-soundwave fs-4"></i><i
+                    class="bi bi-soundwave fs-4"></i>
+                </div>
+                <div id="SiguienteLinea" class="btn me-2 text-white fs-6"
+                    style="background: linear-gradient(#767882,#333674); border: 1px solid;">Siguiente</div>
+                <div id="Cambiar" class="btn me-2 text-white fs-6"
+                    style="background: linear-gradient(#767882,#333674); border: 1px solid;">Cambiar</div>
+                <div id="Reiniciar" class="btn text-white me-2 fs-6" 
+                    style="background: linear-gradient(#767882,#333674); border: 1px solid;">Reiniciar</div>
+            </div>
+        </div>
+    </div>
+
+    <script src="app.js"></script>
+</body>
+
+</html>
